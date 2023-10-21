@@ -76,7 +76,11 @@ class Snow
     strokeWeight(12);
     stroke(#c1d3fe);
     ellipse(100, 40, 350, 150);
+    ellipse(200, 40, 300, 150);
+    ellipse(250, 40, 300, 150);
     ellipse(300, 40, 300, 150);
+    ellipse(400, 40, 300, 150);
+    ellipse(450, 40, 300, 150);
     ellipse(500, 40, 300, 150);
     fill(#edf2fb);
     rect(0, 540, 600, 600);
