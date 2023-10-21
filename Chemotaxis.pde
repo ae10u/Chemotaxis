@@ -1,4 +1,4 @@
-Snow[] bob = new Snow[100];
+Snow[] bob = new Snow[140];
 void setup()
 {
   frameRate(50);
