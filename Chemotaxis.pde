@@ -1,7 +1,7 @@
 Snow[] bob = new Snow[100];
 void setup()
 {
-  frameRate(120);
+  frameRate(50);
   size(600, 600);
   for (int i = 0; i < bob.length; i++)
   {
