@@ -85,7 +85,6 @@ class Snow
     fill(#edf2fb);
     rect(0, 540, 600, 600);
     fill(#edf2fb);
-    rect(0, 530, 600, 20);
+    rect(0, 530, 600, 30);
   }
 }
-
