@@ -43,7 +43,7 @@ class Snow
   void move()
   {
     myY = myY + speed;
-    myX = myX + (int)(Math.random()*3)-1;
+    myX = myX + (int)(Math.random()*9)-4;
     if (myY > 600)
     {
       myY = -50;
